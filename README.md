@@ -45,3 +45,7 @@ Dentro do modal crie os botoes Anterior e Proximo. Faça a paginação de ativid
   ![image](https://user-images.githubusercontent.com/6198834/67249685-e645e200-f43e-11e9-88a5-43cd9b7116a2.png)
   
   - Liste pelo menos 5 Módulos usando display flex no css
+
+6 - Layout do modal
+
+![image](https://user-images.githubusercontent.com/6198834/67250576-4f7b2480-f442-11e9-9b9f-fc75fca0046e.png)
