@@ -7,10 +7,12 @@ Com esse desafio iremos testar sua capacidade em resolver problemas com WordPres
 Iremos criar um sistema real que disponibiliza trilhas para os usuários.
 Cada trilha terá módulos. Nos módulos terão atividades.
 Essas atividades podem ser, textos, fotos, video e galerias. Fique a vontade e use a criatividade.
+#### Essa estrutura terá que ser criada no ADMIN do WordPress e depois chamada no Front.
 
 # IMPORTANTE:
 Ao clicar no módulo dentro da trilha, terá que abrir um modal. O modal conterá todas as atividades preenchidas no módulo clicado. Utilize Ajax para buscar as atividades do módulo e listar dentro do modal.
 Dentro do modal crie os botoes Anterior e Proximo. Faça a paginação de atividade para atividade, também utilizando Ajax.
+### Single trilha -> Lista Módulos -> Modal Atividades -> Paginação Atividade
 
 ### Vamos começar!
 
