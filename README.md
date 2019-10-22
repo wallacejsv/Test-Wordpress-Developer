@@ -25,3 +25,7 @@ Dentro do modal crie os botoes Anterior e Proximo. Faça a paginação de ativid
 - Lyout do modal
 
 ![image](https://user-images.githubusercontent.com/6198834/67250576-4f7b2480-f442-11e9-9b9f-fc75fca0046e.png)
+
+# FINALIZOU O DESAFIO ?
+#### Ao terminar o desafio faça o deploy para um servidor de sua preferência. Ex: Github
+#### Se por algum motivo não conseguir fazer o deploy, marcaremos um call para que possamos analisar sua solução localmente mesmo.
